@@ -1,6 +1,6 @@
-# Hello there 👋
+Hello there 👋
 
-I'm just a beginner, simple guy who wants to build useful tools.
+I'm just a beginner who wants to build useful tools!
 
 Im learning ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) and ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 

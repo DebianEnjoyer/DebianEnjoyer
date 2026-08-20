@@ -1,4 +1,5 @@
 ## Hi there 👋
+  I'm just a beginner, simple guy, who wants to build useful tools.
   I’m currently learning python and C!
   
 

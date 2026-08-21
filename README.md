@@ -1,8 +1,8 @@
 # Hello there 👋
 
-I'm just a beginner who wants to build useful tools!
+Beginner programmer |Learning ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) and ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) | Building projects and learning along the way.
 
-Im learning ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) and ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
 
   
 
